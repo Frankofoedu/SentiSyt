@@ -1,1 +1,1 @@
-# SentiTweet
+# Insyt
