@@ -1,0 +1,385 @@
+﻿namespace SentimentAnalysis
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.components = new System.ComponentModel.Container();
+            BunifuAnimatorNS.Animation animation1 = new BunifuAnimatorNS.Animation();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.bunifuDragControl1 = new Bunifu.Framework.UI.BunifuDragControl(this.components);
+            this.bunifuTransition1 = new BunifuAnimatorNS.BunifuTransition(this.components);
+            this.label4 = new System.Windows.Forms.Label();
+            this.btnGetTweets = new Bunifu.Framework.UI.BunifuThinButton2();
+            this.btnTwitterLogin = new Bunifu.Framework.UI.BunifuThinButton2();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.txtSearchTwitter = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.transparentPanel1 = new SentimentAnalysis.TransparentPanel();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.txtPassword = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.btnLogin = new Bunifu.Framework.UI.BunifuFlatButton();
+            this.txtUsername = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.panel1.SuspendLayout();
+            this.panel3.SuspendLayout();
+            this.transparentPanel1.SuspendLayout();
+            this.panel2.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // panel1
+            // 
+            this.panel1.Controls.Add(this.label3);
+            this.panel1.Controls.Add(this.label2);
+            this.panel1.Controls.Add(this.label1);
+            this.bunifuTransition1.SetDecoration(this.panel1, BunifuAnimatorNS.DecorationType.None);
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(777, 52);
+            this.panel1.TabIndex = 0;
+            // 
+            // label3
+            // 
+            this.bunifuTransition1.SetDecoration(this.label3, BunifuAnimatorNS.DecorationType.None);
+            this.label3.Font = new System.Drawing.Font("Segoe UI Emoji", 23F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label3.Location = new System.Drawing.Point(703, 9);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(25, 36);
+            this.label3.TabIndex = 2;
+            this.label3.Text = "-";
+            this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label3.Click += new System.EventHandler(this.label3_Click);
+            // 
+            // label2
+            // 
+            this.bunifuTransition1.SetDecoration(this.label2, BunifuAnimatorNS.DecorationType.None);
+            this.label2.Font = new System.Drawing.Font("Segoe UI Emoji", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label2.Location = new System.Drawing.Point(734, 9);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(25, 36);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "X";
+            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label2.Click += new System.EventHandler(this.label2_Click);
+            // 
+            // label1
+            // 
+            this.bunifuTransition1.SetDecoration(this.label1, BunifuAnimatorNS.DecorationType.None);
+            this.label1.Font = new System.Drawing.Font("Segoe UI Emoji", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label1.Location = new System.Drawing.Point(3, 9);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(259, 36);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Sentiment Analyer";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // bunifuDragControl1
+            // 
+            this.bunifuDragControl1.Fixed = true;
+            this.bunifuDragControl1.Horizontal = true;
+            this.bunifuDragControl1.TargetControl = this.panel1;
+            this.bunifuDragControl1.Vertical = true;
+            // 
+            // bunifuTransition1
+            // 
+            this.bunifuTransition1.AnimationType = BunifuAnimatorNS.AnimationType.Mosaic;
+            this.bunifuTransition1.Cursor = null;
+            animation1.AnimateOnlyDifferences = true;
+            animation1.BlindCoeff = ((System.Drawing.PointF)(resources.GetObject("animation1.BlindCoeff")));
+            animation1.LeafCoeff = 0F;
+            animation1.MaxTime = 1F;
+            animation1.MinTime = 0F;
+            animation1.MosaicCoeff = ((System.Drawing.PointF)(resources.GetObject("animation1.MosaicCoeff")));
+            animation1.MosaicShift = ((System.Drawing.PointF)(resources.GetObject("animation1.MosaicShift")));
+            animation1.MosaicSize = 20;
+            animation1.Padding = new System.Windows.Forms.Padding(30);
+            animation1.RotateCoeff = 0F;
+            animation1.RotateLimit = 0F;
+            animation1.ScaleCoeff = ((System.Drawing.PointF)(resources.GetObject("animation1.ScaleCoeff")));
+            animation1.SlideCoeff = ((System.Drawing.PointF)(resources.GetObject("animation1.SlideCoeff")));
+            animation1.TimeCoeff = 0F;
+            animation1.TransparencyCoeff = 0F;
+            this.bunifuTransition1.DefaultAnimation = animation1;
+            this.bunifuTransition1.Interval = 15;
+            // 
+            // label4
+            // 
+            this.bunifuTransition1.SetDecoration(this.label4, BunifuAnimatorNS.DecorationType.None);
+            this.label4.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.label4.Location = new System.Drawing.Point(40, 50);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(103, 38);
+            this.label4.TabIndex = 3;
+            this.label4.Text = "Twitter Login";
+            // 
+            // btnGetTweets
+            // 
+            this.btnGetTweets.ActiveBorderThickness = 1;
+            this.btnGetTweets.ActiveCornerRadius = 20;
+            this.btnGetTweets.ActiveFillColor = System.Drawing.Color.SeaGreen;
+            this.btnGetTweets.ActiveForecolor = System.Drawing.Color.White;
+            this.btnGetTweets.ActiveLineColor = System.Drawing.Color.SeaGreen;
+            this.btnGetTweets.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(14)))), ((int)(((byte)(36)))), ((int)(((byte)(50)))));
+            this.btnGetTweets.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnGetTweets.BackgroundImage")));
+            this.btnGetTweets.ButtonText = "Get Tweets";
+            this.btnGetTweets.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.bunifuTransition1.SetDecoration(this.btnGetTweets, BunifuAnimatorNS.DecorationType.None);
+            this.btnGetTweets.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGetTweets.ForeColor = System.Drawing.Color.SeaGreen;
+            this.btnGetTweets.IdleBorderThickness = 1;
+            this.btnGetTweets.IdleCornerRadius = 20;
+            this.btnGetTweets.IdleFillColor = System.Drawing.Color.White;
+            this.btnGetTweets.IdleForecolor = System.Drawing.Color.SeaGreen;
+            this.btnGetTweets.IdleLineColor = System.Drawing.Color.SeaGreen;
+            this.btnGetTweets.Location = new System.Drawing.Point(5, 229);
+            this.btnGetTweets.Margin = new System.Windows.Forms.Padding(5);
+            this.btnGetTweets.Name = "btnGetTweets";
+            this.btnGetTweets.Size = new System.Drawing.Size(191, 41);
+            this.btnGetTweets.TabIndex = 4;
+            this.btnGetTweets.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.btnGetTweets.Click += new System.EventHandler(this.btnGetTweets_Click);
+            // 
+            // btnTwitterLogin
+            // 
+            this.btnTwitterLogin.ActiveBorderThickness = 1;
+            this.btnTwitterLogin.ActiveCornerRadius = 20;
+            this.btnTwitterLogin.ActiveFillColor = System.Drawing.Color.SeaGreen;
+            this.btnTwitterLogin.ActiveForecolor = System.Drawing.Color.White;
+            this.btnTwitterLogin.ActiveLineColor = System.Drawing.Color.SeaGreen;
+            this.btnTwitterLogin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(14)))), ((int)(((byte)(36)))), ((int)(((byte)(50)))));
+            this.btnTwitterLogin.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnTwitterLogin.BackgroundImage")));
+            this.btnTwitterLogin.ButtonText = "Log In";
+            this.btnTwitterLogin.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.bunifuTransition1.SetDecoration(this.btnTwitterLogin, BunifuAnimatorNS.DecorationType.None);
+            this.btnTwitterLogin.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnTwitterLogin.ForeColor = System.Drawing.Color.SeaGreen;
+            this.btnTwitterLogin.IdleBorderThickness = 1;
+            this.btnTwitterLogin.IdleCornerRadius = 20;
+            this.btnTwitterLogin.IdleFillColor = System.Drawing.Color.White;
+            this.btnTwitterLogin.IdleForecolor = System.Drawing.Color.SeaGreen;
+            this.btnTwitterLogin.IdleLineColor = System.Drawing.Color.SeaGreen;
+            this.btnTwitterLogin.Location = new System.Drawing.Point(30, 93);
+            this.btnTwitterLogin.Margin = new System.Windows.Forms.Padding(5);
+            this.btnTwitterLogin.Name = "btnTwitterLogin";
+            this.btnTwitterLogin.Size = new System.Drawing.Size(130, 41);
+            this.btnTwitterLogin.TabIndex = 5;
+            this.btnTwitterLogin.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.btnTwitterLogin.Click += new System.EventHandler(this.btnTwitterLogin_Click);
+            // 
+            // panel3
+            // 
+            this.panel3.Controls.Add(this.txtSearchTwitter);
+            this.panel3.Controls.Add(this.label4);
+            this.panel3.Controls.Add(this.btnTwitterLogin);
+            this.panel3.Controls.Add(this.btnGetTweets);
+            this.bunifuTransition1.SetDecoration(this.panel3, BunifuAnimatorNS.DecorationType.None);
+            this.panel3.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel3.Location = new System.Drawing.Point(0, 52);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(204, 428);
+            this.panel3.TabIndex = 2;
+            // 
+            // txtSearchTwitter
+            // 
+            this.txtSearchTwitter.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.bunifuTransition1.SetDecoration(this.txtSearchTwitter, BunifuAnimatorNS.DecorationType.None);
+            this.txtSearchTwitter.Font = new System.Drawing.Font("Century Gothic", 9.75F);
+            this.txtSearchTwitter.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.txtSearchTwitter.HintForeColor = System.Drawing.Color.Empty;
+            this.txtSearchTwitter.HintText = "searchh Term";
+            this.txtSearchTwitter.isPassword = false;
+            this.txtSearchTwitter.LineFocusedColor = System.Drawing.Color.Blue;
+            this.txtSearchTwitter.LineIdleColor = System.Drawing.Color.Gray;
+            this.txtSearchTwitter.LineMouseHoverColor = System.Drawing.Color.Blue;
+            this.txtSearchTwitter.LineThickness = 3;
+            this.txtSearchTwitter.Location = new System.Drawing.Point(10, 186);
+            this.txtSearchTwitter.Margin = new System.Windows.Forms.Padding(4);
+            this.txtSearchTwitter.Name = "txtSearchTwitter";
+            this.txtSearchTwitter.Size = new System.Drawing.Size(183, 34);
+            this.txtSearchTwitter.TabIndex = 6;
+            this.txtSearchTwitter.Text = "bunifuMaterialTextbox1";
+            this.txtSearchTwitter.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            // 
+            // panel4
+            // 
+            this.bunifuTransition1.SetDecoration(this.panel4, BunifuAnimatorNS.DecorationType.None);
+            this.panel4.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel4.Location = new System.Drawing.Point(204, 52);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(573, 428);
+            this.panel4.TabIndex = 3;
+            // 
+            // transparentPanel1
+            // 
+            this.transparentPanel1.Controls.Add(this.panel2);
+            this.bunifuTransition1.SetDecoration(this.transparentPanel1, BunifuAnimatorNS.DecorationType.None);
+            this.transparentPanel1.Location = new System.Drawing.Point(44, 17);
+            this.transparentPanel1.Name = "transparentPanel1";
+            this.transparentPanel1.Size = new System.Drawing.Size(700, 399);
+            this.transparentPanel1.TabIndex = 2;
+            // 
+            // panel2
+            // 
+            this.panel2.Controls.Add(this.txtPassword);
+            this.panel2.Controls.Add(this.btnLogin);
+            this.panel2.Controls.Add(this.txtUsername);
+            this.bunifuTransition1.SetDecoration(this.panel2, BunifuAnimatorNS.DecorationType.None);
+            this.panel2.Location = new System.Drawing.Point(165, 54);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(376, 289);
+            this.panel2.TabIndex = 0;
+            // 
+            // txtPassword
+            // 
+            this.txtPassword.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.txtPassword.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.bunifuTransition1.SetDecoration(this.txtPassword, BunifuAnimatorNS.DecorationType.None);
+            this.txtPassword.Font = new System.Drawing.Font("Century Gothic", 9.75F);
+            this.txtPassword.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.txtPassword.HintForeColor = System.Drawing.Color.Empty;
+            this.txtPassword.HintText = "Password";
+            this.txtPassword.isPassword = false;
+            this.txtPassword.LineFocusedColor = System.Drawing.Color.Blue;
+            this.txtPassword.LineIdleColor = System.Drawing.Color.Gray;
+            this.txtPassword.LineMouseHoverColor = System.Drawing.Color.Blue;
+            this.txtPassword.LineThickness = 3;
+            this.txtPassword.Location = new System.Drawing.Point(21, 149);
+            this.txtPassword.Margin = new System.Windows.Forms.Padding(4);
+            this.txtPassword.Name = "txtPassword";
+            this.txtPassword.Size = new System.Drawing.Size(329, 30);
+            this.txtPassword.TabIndex = 3;
+            this.txtPassword.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            // 
+            // btnLogin
+            // 
+            this.btnLogin.Activecolor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(139)))), ((int)(((byte)(87)))));
+            this.btnLogin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(139)))), ((int)(((byte)(87)))));
+            this.btnLogin.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnLogin.BorderRadius = 0;
+            this.btnLogin.ButtonText = "Login";
+            this.btnLogin.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.bunifuTransition1.SetDecoration(this.btnLogin, BunifuAnimatorNS.DecorationType.None);
+            this.btnLogin.DisabledColor = System.Drawing.Color.Gray;
+            this.btnLogin.Iconcolor = System.Drawing.Color.Transparent;
+            this.btnLogin.Iconimage = null;
+            this.btnLogin.Iconimage_right = null;
+            this.btnLogin.Iconimage_right_Selected = null;
+            this.btnLogin.Iconimage_Selected = null;
+            this.btnLogin.IconMarginLeft = 0;
+            this.btnLogin.IconMarginRight = 0;
+            this.btnLogin.IconRightVisible = true;
+            this.btnLogin.IconRightZoom = 0D;
+            this.btnLogin.IconVisible = true;
+            this.btnLogin.IconZoom = 90D;
+            this.btnLogin.IsTab = false;
+            this.btnLogin.Location = new System.Drawing.Point(21, 242);
+            this.btnLogin.Name = "btnLogin";
+            this.btnLogin.Normalcolor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(139)))), ((int)(((byte)(87)))));
+            this.btnLogin.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(36)))), ((int)(((byte)(129)))), ((int)(((byte)(77)))));
+            this.btnLogin.OnHoverTextColor = System.Drawing.Color.White;
+            this.btnLogin.selected = false;
+            this.btnLogin.Size = new System.Drawing.Size(329, 34);
+            this.btnLogin.TabIndex = 1;
+            this.btnLogin.Text = "Login";
+            this.btnLogin.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.btnLogin.Textcolor = System.Drawing.Color.White;
+            this.btnLogin.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click_1);
+            // 
+            // txtUsername
+            // 
+            this.txtUsername.BackColor = System.Drawing.Color.White;
+            this.txtUsername.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.bunifuTransition1.SetDecoration(this.txtUsername, BunifuAnimatorNS.DecorationType.None);
+            this.txtUsername.Font = new System.Drawing.Font("Century Gothic", 9.75F);
+            this.txtUsername.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.txtUsername.HintForeColor = System.Drawing.Color.Empty;
+            this.txtUsername.HintText = "Email / Username";
+            this.txtUsername.isPassword = false;
+            this.txtUsername.LineFocusedColor = System.Drawing.Color.Blue;
+            this.txtUsername.LineIdleColor = System.Drawing.Color.Gray;
+            this.txtUsername.LineMouseHoverColor = System.Drawing.Color.Blue;
+            this.txtUsername.LineThickness = 3;
+            this.txtUsername.Location = new System.Drawing.Point(21, 72);
+            this.txtUsername.Margin = new System.Windows.Forms.Padding(4);
+            this.txtUsername.Name = "txtUsername";
+            this.txtUsername.Size = new System.Drawing.Size(329, 29);
+            this.txtUsername.TabIndex = 0;
+            this.txtUsername.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(14)))), ((int)(((byte)(36)))), ((int)(((byte)(50)))));
+            this.ClientSize = new System.Drawing.Size(777, 480);
+            this.Controls.Add(this.panel4);
+            this.Controls.Add(this.panel3);
+            this.Controls.Add(this.panel1);
+            this.Controls.Add(this.transparentPanel1);
+            this.bunifuTransition1.SetDecoration(this, BunifuAnimatorNS.DecorationType.None);
+            this.Name = "Form1";
+            this.Text = "Form1";
+            this.panel1.ResumeLayout(false);
+            this.panel3.ResumeLayout(false);
+            this.transparentPanel1.ResumeLayout(false);
+            this.panel2.ResumeLayout(false);
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label1;
+        private Bunifu.Framework.UI.BunifuDragControl bunifuDragControl1;
+        private BunifuAnimatorNS.BunifuTransition bunifuTransition1;
+        private System.Windows.Forms.Label label4;
+        private Bunifu.Framework.UI.BunifuThinButton2 btnGetTweets;
+        private Bunifu.Framework.UI.BunifuThinButton2 btnTwitterLogin;
+        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.Panel panel4;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtSearchTwitter;
+        private TransparentPanel transparentPanel1;
+        private System.Windows.Forms.Panel panel2;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtPassword;
+        private Bunifu.Framework.UI.BunifuFlatButton btnLogin;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtUsername;
+        //     private ExtendedPanel extendedPanel1;
+    }
+}
+

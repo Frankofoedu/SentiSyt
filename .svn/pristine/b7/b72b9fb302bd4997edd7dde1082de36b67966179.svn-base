@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.Serialization;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SentimentAnalysis.DAL
+{
+    [DataContract]
+    internal class Tweet
+    {
+        [DataMember]
+        internal string TweetId { get; set; }
+        [DataMember]
+        internal string TweetOwnerName { get; set; }
+        [DataMember]
+        internal string TweetContent { get; set; }
+        [DataMember]
+        internal string TweetCreatedDate { get; set; }
+
+    }
+}

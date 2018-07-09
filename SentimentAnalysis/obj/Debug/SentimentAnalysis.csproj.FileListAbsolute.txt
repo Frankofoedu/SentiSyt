@@ -1,0 +1,138 @@
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\SentimentAnalysis.exe.config
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\SentimentAnalysis.exe
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\SentimentAnalysis.pdb
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\Autofac.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\EntityFramework.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\Nito.AsyncEx.Context.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\Nito.AsyncEx.Tasks.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\Nito.Disposables.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\System.Net.Http.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.Controllers.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.Core.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.Credentials.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.Factories.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.Logic.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.Security.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.Streams.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.WebLogic.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\Autofac.xml
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\EntityFramework.xml
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.Form1.resources
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.Properties.Resources.resources
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.csproj.GenerateResource.Cache
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.exe
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.pdb
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\VaderSharp.dll
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\VaderSharp.xml
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.UserControls.LoginControl1.resources
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.UserControls.SentimenControl.resources
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.UserControls.SentimentReports.resources
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.UserControls.SentinentReport.resources
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.UserControls.MyPreloader.resources
+C:\Users\user\Dropbox\Visual Studio 2015\Projects\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.UserControls.Tweet.resources
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\SentimentAnalysis.exe.config
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\SentimentAnalysis.exe
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\SentimentAnalysis.pdb
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\Autofac.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\EntityFramework.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\Nito.AsyncEx.Context.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\Nito.AsyncEx.Tasks.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\Nito.Disposables.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\System.Net.Http.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.Controllers.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.Core.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.Credentials.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.Factories.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.Logic.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.Security.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.Streams.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.WebLogic.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\VaderSharp.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\Autofac.xml
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\EntityFramework.xml
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\VaderSharp.xml
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.Form1.resources
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.Properties.Resources.resources
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.UserControls.LoginControl1.resources
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.UserControls.MyPreloader.resources
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.UserControls.SentimenControl.resources
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.UserControls.SentimentReports.resources
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.UserControls.SentinentReport.resources
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.UserControls.Tweet.resources
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.csproj.GenerateResource.Cache
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.exe
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.pdb
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\bot.rive
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\bin\Debug\RiveScript.dll
+C:\Users\HP\Dropbox\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.frmChat.resources
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\SentimentAnalysis.exe.config
+E:\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.exe
+E:\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.pdb
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\bot.rive
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\SentimentAnalysis.exe
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\SentimentAnalysis.pdb
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\Autofac.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\EntityFramework.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\EntityFramework.SqlServer.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\Newtonsoft.Json.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\Nito.AsyncEx.Context.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\Nito.AsyncEx.Tasks.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\Nito.Disposables.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\System.Net.Http.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\System.Reflection.TypeExtensions.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.Controllers.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.Core.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.Credentials.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.Factories.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.Logic.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.Security.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.Streams.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\Tweetinvi.WebLogic.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\VaderSharp.dll
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\Autofac.xml
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\EntityFramework.xml
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\EntityFramework.SqlServer.xml
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\Newtonsoft.Json.xml
+E:\SentimentAnalysis\SentimentAnalysis\bin\Debug\VaderSharp.xml
+E:\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.csprojResolveAssemblyReference.cache
+E:\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.Form1.resources
+E:\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.frmChat.resources
+E:\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.Properties.Resources.resources
+E:\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.UserControls.LoginControl1.resources
+E:\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.UserControls.MyPreloader.resources
+E:\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.UserControls.SentimenControl.resources
+E:\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.UserControls.SentimentReports.resources
+E:\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.UserControls.SentinentReport.resources
+E:\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.UserControls.Tweet.resources
+E:\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.csproj.GenerateResource.Cache
+C:\Users\user\Documents\SentimentAnalysis\SentimentAnalysis\bin\Debug\SentimentAnalysis.exe.config
+C:\Users\user\Documents\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.exe
+C:\Users\user\Documents\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.pdb

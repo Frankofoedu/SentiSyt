@@ -1,0 +1,52 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data.Entity;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SentimentAnalysis.DAL
+{
+    class SentimentContext : DbContext
+    {
+        public SentimentContext(): base("SentimentDb")
+        {
+            Database.SetInitializer(new SentimentInitializer<SentimentContext>());
+
+        }
+
+
+        public DbSet<Employee> Employees { get; set; }
+
+
+        private class SentimentInitializer<T>: DropCreateDatabaseAlways<SentimentContext>
+        {
+            protected override void Seed(SentimentContext context)
+            {
+                Employee emp = new Employee()
+                {
+                    Email = "x@gmail.com",
+                    Password = "admin",
+
+                    person = new Person()
+                    {
+                        Address = "Awka",
+                        DOB = "19/2/2010",
+                        FirstName = "John",
+                        LastName = "Doe",
+                        Gender = "F"
+
+                    }
+                };
+
+                context.Employees.Add(emp);
+                context.SaveChanges();
+
+                base.Seed(context);
+            }
+            
+
+            
+        }
+    }
+}
