@@ -1,4 +1,4 @@
-# Insyt
+# SentiSyt
 
 This is a prototype sentiment analysis system easily used for social media data.  It also incorporates a chat bot system. 
 
