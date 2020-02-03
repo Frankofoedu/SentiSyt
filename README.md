@@ -22,7 +22,7 @@ You can also view results of analysis.
 * Visual studio 2015
 * Tweeetinvi
 * VaderSharp
-*Rivescript
+* Rivescript
 
 ## Contributors
 * Ofoedu Ebuka Frank
